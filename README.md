@@ -3,7 +3,7 @@ Programs &amp; assignments for Logic Building batch - C++
 
 # Folder layout
 ```
-C_Programming/
+CPP_Programming/
 ├── Assignments
 │   └── Assignment_1
 │       ├── program1_1.cpp
