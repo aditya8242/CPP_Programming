@@ -1,0 +1,25 @@
+#include<iostream>
+using namespace std;
+
+int Maximum(int No1, int No2)
+{
+	if(No1 > No2)
+	{
+		return No1;
+	}
+	else
+	{
+		return No2;
+	}
+}
+
+int main()
+{
+	int iRet = 0, iValue1 = 10, iValue2 = 11;
+
+	iRet = Maximum(iValue1, iValue2);
+
+	cout << "Maximum is number is " << iRet << "\n";
+
+	return 0;
+}
